@@ -31,7 +31,7 @@ Presenta dos versiones principales: **Cámara** e **Iluminación**, cada una con
 Se pueden ver unos videos de demostración, tanto d ela versión de cámara cómo de iluminación en la siguiente lista de reproducción:
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=ur6hoRzbM48&list=PLX8zcGs6kWkzgTm9ko3Z3f1fdE4igJlaW">
+  <a target="_blank" href="https://www.youtube.com/watch?v=ur6hoRzbM48&list=PLX8zcGs6kWkzgTm9ko3Z3f1fdE4igJlaW">
     <img src="images/video.png" width="400" alt="Videos de Demostración">
   </a>
 </div>
