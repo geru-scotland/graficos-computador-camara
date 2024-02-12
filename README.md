@@ -28,7 +28,7 @@ Presenta dos versiones principales: **Cámara** e **Iluminación**, cada una con
 ---
 
 ## **Videos de Demostración**
-Se pueden ver unos videos de demostración, tanto d ela versión de cámara cómo de iluminación en la siguiente lista de reproducción:
+Se pueden ver unos videos de demostración, tanto de la versión de cámara cómo de iluminación en la siguiente lista de reproducción:
 
 <div align="center">
   <a target="_blank" href="https://www.youtube.com/watch?v=ur6hoRzbM48&list=PLX8zcGs6kWkzgTm9ko3Z3f1fdE4igJlaW">
